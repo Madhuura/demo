@@ -1,0 +1,2 @@
+The Java Runtime Environment (JRE) version 8 is what you get when you download Java software from java.com.
+
